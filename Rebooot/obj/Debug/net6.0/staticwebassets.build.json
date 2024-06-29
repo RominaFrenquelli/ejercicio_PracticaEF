@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "Do0d909wT7zyfhK3yk8KOaidzhk1ID+5HTlUowE2SDk=",
+  "Source": "Rebooot",
+  "BasePath": "_content/Rebooot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Rebooot\\wwwroot",
+      "Source": "Rebooot",
+      "ContentRoot": "C:\\Users\\Administrador\\source\\repos\\ddd\\Rebooot\\Rebooot\\wwwroot\\",
+      "BasePath": "_content/Rebooot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Administrador\\source\\repos\\ddd\\Rebooot\\Rebooot\\wwwroot\\codeWeb\\articulos.html",
+      "SourceId": "Rebooot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrador\\source\\repos\\ddd\\Rebooot\\Rebooot\\wwwroot\\",
+      "BasePath": "_content/Rebooot",
+      "RelativePath": "codeWeb/articulos.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\codeWeb\\articulos.html"
+    },
+    {
+      "Identity": "C:\\Users\\Administrador\\source\\repos\\ddd\\Rebooot\\Rebooot\\wwwroot\\codeWeb\\cliente.html",
+      "SourceId": "Rebooot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrador\\source\\repos\\ddd\\Rebooot\\Rebooot\\wwwroot\\",
+      "BasePath": "_content/Rebooot",
+      "RelativePath": "codeWeb/cliente.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\codeWeb\\cliente.html"
+    }
+  ]
+}
